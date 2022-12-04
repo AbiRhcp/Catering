@@ -1,0 +1,128 @@
+
+body { background-color: #FFFBE9;
+
+
+}
+
+h1 { color: #000;
+    font-size: medium;
+    font-family: sans-serif;
+
+}
+
+.qs { color: #000;
+    font-size: larger;
+    font-family: sans-serif;
+
+}
+
+.nav { display: inline-block;
+      font-style: oblique;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.li1 {
+    float: left;
+    display: block;
+    color: #000;
+    text-align: center;
+    padding:  5px ;
+    text-decoration: none;
+}
+.li2 {
+    float: left;
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+.li3 {
+    
+    float: left;
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+.parrafo {
+    font-size: larger;
+    padding: 50px ;
+    margin: 8px;
+    background-color: rgba(250, 235, 215, 0.671);
+
+   
+}
+
+.articulo {
+    font-size: larger;
+    padding: 50px;
+    margin: 8px;
+    background-color: rgba(250, 235, 215, 0.671);
+}
+
+.imagenes {
+    width: 500px;
+    height: 400px;
+    padding:0.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 300px;
+    float: right;
+
+
+}
+.img2 {
+    width: 517px;
+    height: 400px;
+    padding:0.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 20px;
+    float: left;
+   
+}
+
+.somos { color: #000;
+    font-size: larger;
+    font-family: sans-serif;
+    font-style: oblique;
+
+}
+
+.letra1 {
+    color: #000;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
+
+.letra2 {
+    color: #000;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.letra3 {
+    color: #000;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.cupcake {
+    width: 50px;
+    height: 50px;
+    padding: 0.2rem;
+    display: flex;
+    flex-wrap: nowrap;
+}
