@@ -1,6 +1,6 @@
 
 body { background-color: #FFFBE9;
-
+     flex-grow: 1;
 
 }
 
@@ -126,3 +126,49 @@ h1 { color: #000;
     display: flex;
     flex-wrap: nowrap;
 }
+
+.imgg {  width: 500px;
+    height: 400px;
+    padding:0.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 300px;
+    float: right;
+
+
+
+}
+
+.imgg2 {
+    width: 500px;
+    height: 400px;
+    padding:0.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 300px;
+    float: right;
+
+
+}
+
+.instagram {
+    width:20px;
+    height: 20px;
+    padding: 0.2rem;
+    margin: 0px;
+
+
+}
+
+.imgi { width: 30px;
+    height: 30px;
+    padding: 0.2rem;
+    margin: 0px;
+    display: flex;
+    flex-wrap: nowrap;
+    position:fixed;
+    left:0px;
+   bottom: 0px;
+}
+
+
